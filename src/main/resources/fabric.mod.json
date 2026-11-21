@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "odmtitan",
+  "version": "${version}",
+  "name": "ODM Gear & Beast Titan",
+  "description": "Levi-style ODM gear with hooks, a long-lasting gas tank shown in %, spinning strikes, a dedicated ODM slot, and a slow, block-throwing Beast Titan.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.odmtitan.OdmTitanMod"],
+    "client": ["com.odmtitan.client.OdmTitanClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": ">=26.3-",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

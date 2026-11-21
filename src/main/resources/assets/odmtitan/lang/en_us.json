@@ -1,0 +1,22 @@
+{
+  "itemGroup.odmtitan": "ODM Gear & Beast Titan",
+  "item.odmtitan.odm_gear": "ODM Gear",
+  "item.odmtitan.gas_canister": "Gas Canister",
+  "item.odmtitan.odm_blade": "ODM Blade",
+  "item.odmtitan.beast_horn": "Beast Titan Horn",
+  "entity.odmtitan.beast_titan": "Beast Titan",
+
+  "key.category.odmtitan.main": "ODM Gear",
+  "key.odmtitan.hook_left": "Left Hook (hold)",
+  "key.odmtitan.hook_right": "Right Hook (hold)",
+  "key.odmtitan.boost": "Gas Boost (hold)",
+  "key.odmtitan.spin": "Levi Spinning Strike",
+  "key.odmtitan.unequip": "Take ODM Gear out of its slot",
+
+  "message.odmtitan.equipped": "ODM Gear slotted into your ODM slot. Hold Z / X to fire hooks, V to boost, C to strike.",
+  "message.odmtitan.unequipped": "ODM Gear removed from the ODM slot.",
+  "message.odmtitan.already_equipped": "Your ODM slot is already in use. Press K to take the gear out.",
+  "message.odmtitan.need_gear": "Put ODM Gear into your ODM slot first (right-click it).",
+  "message.odmtitan.tank_full": "Gas tank is already full.",
+  "message.odmtitan.no_target": "No target in front of you for a spinning strike."
+}

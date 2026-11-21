@@ -1,0 +1,4 @@
+{ "type": "minecraft:crafting_shaped", "category": "misc",
+  "pattern": ["BBB", "BNB", "BBB"],
+  "key": { "B": "minecraft:bone_block", "N": "minecraft:netherite_ingot" },
+  "result": { "id": "odmtitan:beast_horn", "count": 1 } }
